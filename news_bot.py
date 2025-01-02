@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 BOT_TOKEN = "7818778997:AAGrrawghnCsdEJB2gfjNtTb-wwS4zQi-7Y"
-CHANNEL_ID = "@Trade_Made_INFO"  # или числовой ID -1001234567890
+CHANNEL_ID = "@Investt_Baza"  # или числовой ID -1001234567890
 
 # -------------------------------------------------------------------
 # Парсер для новостей с сайта
